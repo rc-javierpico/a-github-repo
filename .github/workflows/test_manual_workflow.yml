@@ -7,4 +7,4 @@ on:
       reason:
         description: 'Why are you running this workflow manually?'
         required: true
-        default: 'I am running tests before implementing an automated workflow'
+        default: 'I am running tests before implementing an automated workflow. Thank you'
